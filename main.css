@@ -1,21 +1,29 @@
 body{
-    background-color: coral;
+    background-color: aquamarine;
 }
 #b1{
 
     margin-top: 20px;
     font-size: 40px;
     font-family: monospace;
-    border: double;
+    border-style: hidden;
     padding-bottom: 20px;
     margin-right: 560px;
     margin-left: 550px;
-    background-color: antiquewhite;
+    background-color: darkorange;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
 }
 .div1{
     border: groove;
     padding-bottom: 20px;
     background-color: bisque;
+}
+#button1{
+    font-size: large;
+    font-family: cursive;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
 }
 #p1{
     font-family: monospace;
@@ -64,4 +72,88 @@ body{
 #ss2{
     border-radius: 10px;
     font-size: larger;
+}
+.sudiv{
+    font-family: monospace;
+    font-size: 20px;
+    font-variant: common-ligatures;
+    color: white;
+
+}
+#span1{
+
+    font-size: 25px;
+    font-weight: 400;
+}
+.fun{
+    margin-top: 100px;
+}
+#i7{
+    font-size: larger;
+    border: orangered;
+    border-style: groove;
+    border-radius: 10px;
+}
+.subbutton{
+    margin-right: 470px;
+    margin-top: -200px;
+}
+.bodysup{
+    background-image: url("dball family.png");
+    background-repeat: no-repeat;
+    background-size: 1086px 620px;
+    background-position-y: 33px;
+    background-position-x: 300px;
+}
+.outdiv{
+    color: black;
+    margin-right: 1015px;
+}
+
+/*All the main database css is here*/
+.balls{
+    margin-right: 100px;
+    margin-top: 200px;
+}
+.mp1{
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.mp2{
+    margin-left: 287px;
+    margin-top: -245px;
+}
+.mp3{
+    margin-left: 534px;
+    margin-top: -345px;
+}
+.mp4{
+    margin-left: 834px;
+    margin-top: -345px;
+}
+.mp5{
+    margin-left: 1090px;
+    margin-top: -345px;
+}
+.mp6{
+    margin-left: 20px;
+    margin-top: -90px;
+}
+#i1{
+    border-radius: 20px;
+}
+#i2{
+    border-radius: 20px;
+}
+#i3{
+    border-radius: 20px;
+}
+#i4{
+    border-radius: 20px;
+}
+#i5{
+    border-radius: 20px;
+}
+#i6{
+    border-radius: 20px;
 }
