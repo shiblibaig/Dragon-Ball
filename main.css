@@ -1,21 +1,29 @@
 body{
-    background-color: coral;
+    background-color: aquamarine;
 }
 #b1{
 
     margin-top: 20px;
     font-size: 40px;
     font-family: monospace;
-    border: double;
+    border-style: hidden;
     padding-bottom: 20px;
     margin-right: 560px;
     margin-left: 550px;
-    background-color: antiquewhite;
+    background-color: darkorange;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
 }
 .div1{
     border: groove;
     padding-bottom: 20px;
     background-color: bisque;
+}
+#button1{
+    font-size: large;
+    font-family: cursive;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
 }
 #p1{
     font-family: monospace;
@@ -64,4 +72,41 @@ body{
 #ss2{
     border-radius: 10px;
     font-size: larger;
+}
+.sudiv{
+    font-family: monospace;
+    font-size: 20px;
+    font-variant: common-ligatures;
+    color: white;
+}
+#span1{
+
+    font-size: 25px;
+    font-weight: 400;
+}
+.fun{
+    margin-top: 100px;
+}
+#i7{
+    font-size: larger;
+    border: orangered;
+    border-style: groove;
+}
+.subbutton{
+    margin-right: 470px;
+    margin-top: -200px;
+}
+.bodysup{
+    background-image: url("dball family.png");
+    background-repeat: no-repeat;
+    background-size: 1086px 620px;
+    background-position-y: 33px;
+    background-position-x: 300px;
+}
+.outdiv{
+    color: black;
+    margin-right: 1015px;
+}
+h1{
+    margin-left: 170px;
 }
