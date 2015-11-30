@@ -78,7 +78,10 @@ body{
     font-size: 20px;
     font-variant: common-ligatures;
     color: white;
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/gh-pages
 }
 #span1{
 
@@ -92,7 +95,10 @@ body{
     font-size: larger;
     border: orangered;
     border-style: groove;
+<<<<<<< HEAD
     border-radius: 10px;
+=======
+>>>>>>> origin/gh-pages
 }
 .subbutton{
     margin-right: 470px;
@@ -109,6 +115,7 @@ body{
     color: black;
     margin-right: 1015px;
 }
+<<<<<<< HEAD
 
 /*All the main database css is here*/
 .balls{
@@ -156,4 +163,8 @@ body{
 }
 #i6{
     border-radius: 20px;
+=======
+h1{
+    margin-left: 170px;
+>>>>>>> origin/gh-pages
 }
